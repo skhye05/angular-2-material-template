@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-2-material-template
+a material design template folder
+>>>>>>> 7f8880a25c5ea9835a5e0fef1adea5785409bfee
